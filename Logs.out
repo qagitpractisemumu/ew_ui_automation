@@ -1,0 +1,66 @@
+2021-11-08 20:11:316 INFO  RegisterStep:24 - Verify User navigated to Website page
+2021-11-08 20:11:482 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:585 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder= 'Enter username']]
+2021-11-08 20:11:622 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:651 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Enter password']]
+2021-11-08 20:11:672 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:726 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //button[@type='submit']]
+2021-11-08 20:11:67 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:101 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //a[@href='/portal-pages/customer']]
+2021-11-08 20:11:375 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:916 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //*[@class='icon icon-plus']]
+2021-11-08 20:11:165 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:217 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='First Name']]
+2021-11-08 20:11:284 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:319 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Last Name']]
+2021-11-08 20:11:347 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:381 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: (//a[@class='mr-2 dropdown-toggle'])[1]]
+2021-11-08 20:11:879 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:910 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Phone Number']]
+2021-11-08 20:11:19 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:68 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Email']]
+2021-11-08 20:11:245 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:288 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //button[@id='wizard-next']]
+2021-11-08 20:11:533 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:557 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Business Name']]
+2021-11-08 20:11:600 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:632 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Business Domain']]
+2021-11-08 20:11:697 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:721 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Contact Name']]
+2021-11-08 20:11:773 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:809 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: (//a[@class='mr-2 dropdown-toggle'])[2]]
+2021-11-08 20:11:296 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:338 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@type='tel']]
+2021-11-08 20:11:384 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:407 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Contact Email']]
+2021-11-08 20:11:502 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:526 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: (//i[@class='fa-1x icon icon-upload'])[1]]
+2021-11-08 20:11:258 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:312 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Enter a location']]
+2021-11-08 20:11:606 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:635 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: (//input[@placeholder='City'])[1]]
+2021-11-08 20:11:699 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:724 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Zip Code']]
+2021-11-08 20:11:775 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:801 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //button[@id='wizard-next']]
+2021-11-08 20:11:35 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:59 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //button[@id='wizard-next']]
+2021-11-08 20:11:296 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:772 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> css selector: div.item.notification-log-trigger.has-notification]
+2021-11-08 20:11:825 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:849 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //a[@href='/portal-pages/customer']]
+2021-11-08 20:11:82 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:107 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@placeholder='Search']]
+2021-11-08 20:11:411 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:892 INFO  UtilityClass:57 - Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //input[@name='switcher_checkbox_1']] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'US-00012996', ip: '100.121.214.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 91.1.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210901125518, moz:geckodriverVersion: 0.29.1, moz:headless: false, moz:processID: 15964, moz:profile: C:\Users\espntaa\AppData\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8f1f914a-78e2-4d18-aeb1-1df2130698d6
+2021-11-08 20:11:948 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:995 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> css selector: div.item.notification-log-trigger.has-notification]
+2021-11-08 20:11:289 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:318 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //span[contains(text(),'sp-ericsson')]]
+2021-11-08 20:11:548 INFO  UtilityClass:51 - *********=-----Letting element load successfully-----*********
+2021-11-08 20:11:579 INFO  UtilityClass:54 - wait for element ele value[[FirefoxDriver: firefox on WINDOWS (8f1f914a-78e2-4d18-aeb1-1df2130698d6)] -> xpath: //button[@class='btn big']]

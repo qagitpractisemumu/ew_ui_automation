@@ -1,0 +1,4 @@
+The purpose of project documentation is to communicate the scope and goal of a project to stakeholders and reviewers. 
+The documentation needs to be done carefully so that the idea cascaded to the clients is clear.
+The project documentation template available with us come in a number of layouts and file formats, like Excel, PDF.
+In any project work, documentation is an essential part of the project.
